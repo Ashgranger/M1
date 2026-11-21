@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Zone Zero</string>
+    <string name="play_deploy">DEPLOY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="return_lobby">LOBBY</string>
+    <string name="finding_players">FINDING PLAYERS</string>
+    <string name="jump_prompt">JUMP FROM PLANE</string>
+    <string name="spectate_skip">SKIP TO RESULTS</string>
+    <string name="error_recovery_title">RENDERER RECOVERING</string>
+    <string name="error_recovery_action">RELAUNCH MATCH</string>
+</resources>

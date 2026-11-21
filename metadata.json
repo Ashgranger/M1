@@ -1,0 +1,6 @@
+{
+  "name": "Zone Zero",
+  "description": "30-player 3D tactical island Battle Royale with procedural terrain, enterable towns, 10 weapon classes, 29 intelligent bots, 7-stage storm, and deep progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
